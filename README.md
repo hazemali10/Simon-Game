@@ -1,7 +1,7 @@
 # Simon-Game
 
 How to play:
-CLick the colours in the correct order to win!
+Click the colours in the correct order to win!
 
 For example, after you press any key to start, "blue" will flash", click on it. Next level, "red" flashes, now you have to click blue then red and so on.
 
